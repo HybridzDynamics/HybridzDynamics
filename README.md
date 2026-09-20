@@ -1,172 +1,189 @@
-# Hi, I'm Mohammad Arsh 👋
+<!-- ═══════════════ HEADER ═══════════════ -->
+<div align="center">
 
-### Developer • Builder • AI Enthusiast • Tech Creator
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Mohammad%20Arsh&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20AI%20Enthusiast%20%E2%80%A2%20Tech%20Creator&descSize=18&descAlignY=60&descColor=c9c9ff" alt="Mohammad Arsh header" />
 
-I'm **Mohammad Arsh**, a developer and technology enthusiast focused on building software, experimenting with AI, and turning ideas into working products.
+<a href="https://github.com/HybridzDynamics">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=700&height=45&lines=Full-Stack+Developer+%F0%9F%9A%80;BCA+Student+%40+JIIT+%F0%9F%8E%93;Founder+%40+Hybridz+Dynamics;Co-Founder+%40+Asero+Studio;Building+with+Python%2C+Node.js+%26+Flutter;Exploring+RAG%2C+OCR+%26+Multilingual+AI;Aspiring+Cybersecurity+Threat+Analyst+%F0%9F%9B%A1%EF%B8%8F" alt="Typing animation" />
+</a>
 
-I enjoy working across the stack — from designing interfaces and APIs to databases, AI systems, automation, and deployment.
+<br/>
 
-> **Build things. Break things. Learn. Build better.**
+<img src="https://komarev.com/ghpvc/?username=HybridzDynamics&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="Profile views" />
+<a href="https://github.com/HybridzDynamics?tab=followers"><img src="https://img.shields.io/github/followers/HybridzDynamics?style=for-the-badge&logo=github&color=302b63&labelColor=0f0c29" alt="Followers" /></a>
+<img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Collabs-7c3aed?style=for-the-badge" alt="Open to work" />
 
----
+</div>
 
-## 🚀 What I'm Working On
+<br/>
 
-🔹 **AI & Machine Learning**  
-Exploring RAG, document intelligence, multilingual AI, OCR, and open-source models.
+<!-- ═══════════════ ABOUT ═══════════════ -->
+## 👋 About Me
 
-🔹 **Full-Stack Development**  
-Building modern web applications, dashboards, APIs, and backend systems.
+I'm **Mohammad Arsh**, a developer and BCA student at **Jaypee Institute of Information Technology (JIIT)**. I build software, experiment with AI, and turn ideas into working products.
 
-🔹 **Developer Infrastructure**  
-Working with databases, Linux, Docker, cloud deployment, CI/CD, and system architecture.
+I like working across the whole stack: interfaces and APIs, databases, AI systems, automation, and deployment. I'm also the **Founder of Hybridz Dynamics** and **Co-Founder of Asero Studio**.
 
-🔹 **Game & Interactive Development**  
-Experimenting with game systems, digital assets, and interactive experiences.
-
-🔹 **Tech Content**  
-Documenting projects, experiments, development workflows, and things I learn along the way.
-
----
-
-## 🧠 Tech Stack
-
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-18181B?style=for-the-badge&logo=typescript)
-![Python](https://img.shields.io/badge/Python-18181B?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/C-18181B?style=for-the-badge&logo=c)
-
-### Frontend
-![React](https://img.shields.io/badge/React-18181B?style=for-the-badge&logo=react)
-![Vite](https://img.shields.io/badge/Vite-18181B?style=for-the-badge&logo=vite)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-18181B?style=for-the-badge&logo=tailwindcss)
-![HTML](https://img.shields.io/badge/HTML5-18181B?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-18181B?style=for-the-badge&logo=css3)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-18181B?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-18181B?style=for-the-badge&logo=express)
-![Prisma](https://img.shields.io/badge/Prisma-18181B?style=for-the-badge&logo=prisma)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18181B?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-18181B?style=for-the-badge&logo=mysql)
-
-### Tools & Infrastructure
-![Git](https://img.shields.io/badge/Git-18181B?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/Docker-18181B?style=for-the-badge&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-18181B?style=for-the-badge&logo=linux)
-![VS Code](https://img.shields.io/badge/VS_Code-18181B?style=for-the-badge&logo=visualstudiocode)
-
----
-
-## 🛠️ Things I've Built
-
-### 🧠 Sathix
-An AI-powered platform exploring multilingual access to information, intelligent retrieval, document intelligence, OCR, and eligibility analysis.
-
-**Focus:** AI · RAG · OCR · Multilingual Systems · Web Scraping
-
----
-
-### 🏦 FinanceForge
-A finance-focused software project built to explore financial data processing, analysis, and application development.
-
-**Focus:** Python · Data Processing · Financial Systems
-
----
-
-### 🔐 Hybridz Licensing
-A licensing and API ecosystem for managing digital assets and software licensing.
-
-**Focus:** APIs · Authentication · PostgreSQL · Backend Systems
-
----
-
-### 🎮 FH Development
-A development ecosystem focused on digital assets and experiences for gaming platforms.
-
-**Focus:** Game Development · Web · Digital Assets
-
----
-
-## 📈 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HybridzDynamics&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HybridzDynamics&layout=compact&theme=github_dark&hide_border=true)
-
----
-
-## 🌱 Currently Learning
-
-- Advanced AI/ML systems
-- Retrieval-Augmented Generation
-- Multilingual NLP
-- Backend architecture
-- Cloud infrastructure
-- Distributed systems
-- Game development
-- System design
-
----
-
-## 🎯 My Approach
-
-I don't like stopping at tutorials.
-
-I prefer to:
+> 💬 *Build things. Break things. Learn. Build better.*
 
 ```text
-Idea
-  ↓
-Research
-  ↓
-Prototype
-  ↓
-Build
-  ↓
-Break
-  ↓
-Debug
-  ↓
-Improve
-  ↓
-Deploy
-````
-
-Every project is an opportunity to learn something new.
+🧑‍💻 Name        →  Mohammad Arsh
+🎓 Studying     →  BCA @ JIIT (2026 – 2029)
+🏢 Founder      →  Hybridz Dynamics (since 2022)
+🤝 Co-Founder   →  Asero Studio
+📍 Based in     →  Delhi, India
+🎯 Aiming for   →  Software / Backend Engineering & Cybersecurity
+```
 
 ---
 
+<!-- ═══════════════ WORKING ON ═══════════════ -->
+## 🚀 What I'm Working On
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🧠 AI & Machine Learning
+Exploring RAG, document intelligence, multilingual AI, OCR, and open-source models.
+
+### ⚙️ Full-Stack Development
+Modern web apps, dashboards, REST APIs, and backend systems.
+
+### 🛠️ Developer Infrastructure
+Databases, Linux, Docker, cloud deployment, CI/CD, and system architecture.
+
+  </td>
+    <td width="50%" valign="top">
+
+### 📱 Cross-Platform Apps
+Flutter apps with authentication, offline support, and clean architecture.
+
+### 🎮 Game & Interactive Dev
+Game systems, digital assets, and interactive experiences.
+
+### 🎥 Tech Content
+Documenting projects, experiments, and workflows on YouTube.
+
+  </td>
+  </tr>
+</table>
+
+---
+
+<!-- ═══════════════ TECH STACK ═══════════════ -->
+## 🧠 Tech Stack
+
+<div align="center">
+
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,py,c,php,dart&theme=dark" alt="Languages" />
+
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css,flutter&theme=dark" alt="Frontend" />
+
+**Backend**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,discordjs&theme=dark" alt="Backend" />
+
+**Databases**<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase&theme=dark" alt="Databases" />
+
+**Tools & Infrastructure**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,raspberrypi&theme=dark" alt="Tools" />
+
+</div>
+
+---
+
+<!-- ═══════════════ PROJECTS ═══════════════ -->
+## 🛠️ Things I've Built
+
+| Project | What it is | Focus |
+|---|---|---|
+| 🧠 **Sathix** | AI-powered platform for multilingual access to information, intelligent retrieval, document intelligence, OCR, and eligibility analysis | `AI` `RAG` `OCR` `Multilingual` `Web Scraping` |
+| 🏦 **FinanceForge** | Financial statement generation platform for financial data processing, analysis, and reporting | `Python` `MySQL` `Financial Systems` |
+| 🔐 **Hybridz Licensing** | Licensing and API ecosystem for managing digital assets and software licenses | `APIs` `Authentication` `PostgreSQL` `Backend` |
+| 🎮 **FH Development** | Development ecosystem for digital assets and experiences on gaming platforms | `Game Dev` `Web` `Digital Assets` |
+| 🤖 **Yahmi Security Rover** | AI surveillance rover with live camera, human and animal detection, a real-time dashboard, and a Flutter app | `ESP32` `Raspberry Pi` `Computer Vision` `WebSocket` `Flutter` |
+| 📱 **LuminSalat** | Flutter app with authentication, calculators, Islamic utilities, and offline support | `Flutter` `Dart` `Offline-First` |
+| 💬 **Discord Bots** | Bots with dashboards, automation workflows, moderation systems, and custom integrations | `Node.js` `Discord.js` `Automation` |
+
+---
+
+<!-- ═══════════════ STATS ═══════════════ -->
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=HybridzDynamics&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HybridzDynamics&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa" alt="Top Languages" />
+
+<img src="https://streak-stats.demolab.com?user=HybridzDynamics&theme=tokyonight&hide_border=true&background=0f0c29&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HybridzDynamics&theme=tokyo-night&hide_border=true&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=7c3aed" alt="Contribution Graph" />
+
+</div>
+
+---
+
+<!-- ═══════════════ SNAKE ═══════════════ -->
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HybridzDynamics/HybridzDynamics/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HybridzDynamics/HybridzDynamics/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/HybridzDynamics/HybridzDynamics/output/github-snake.svg" />
+  </picture>
+</div>
+
+---
+
+<!-- ═══════════════ LEARNING ═══════════════ -->
+## 🌱 Currently Learning
+
+- 🤖 Advanced AI/ML systems and Retrieval-Augmented Generation
+- 🌍 Multilingual NLP
+- 🏗️ Backend architecture and system design
+- ☁️ Cloud infrastructure and distributed systems
+- 🛡️ Cybersecurity fundamentals
+- 🎮 Game development
+
+---
+
+<!-- ═══════════════ APPROACH ═══════════════ -->
+## 🎯 My Approach
+
+I don't like stopping at tutorials. Every project is a chance to learn something new.
+
+```text
+Idea → Research → Prototype → Build → Break → Debug → Improve → Deploy
+```
+
+---
+
+<!-- ═══════════════ CONNECT ═══════════════ -->
 ## 🌐 Find Me
 
-📺 **YouTube:** [Hybridz Dynamics](https://www.youtube.com/@Hybridzdynamics)
+<div align="center">
 
-📷 **Instagram:** [Hybridz Dynamics](https://www.instagram.com/hybridz_dynamics/)
+<a href="https://www.linkedin.com/in/mohammad-arsh-1792008-hd/"><img src="https://img.shields.io/badge/LinkedIn-Mohammad%20Arsh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/HybridzDynamics"><img src="https://img.shields.io/badge/GitHub-HybridzDynamics-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.youtube.com/@Hybridzdynamics"><img src="https://img.shields.io/badge/YouTube-Hybridz%20Dynamics-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<a href="https://www.instagram.com/hybridz_dynamics/"><img src="https://img.shields.io/badge/Instagram-hybridz__dynamics-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
-💻 **GitHub:** [HybridzDynamics](https://github.com/HybridzDynamics)
-
-💼 **LinkedIn:** [Mohammad Arsh](https://www.linkedin.com/in/mohammad-arsh-1792008-hd/)
-
----
-
-## ⚡ A Little About Me
-
-* 💻 I enjoy building software from scratch
-* 🤖 Interested in AI and emerging technologies
-* 🧪 I like experimenting with new technologies
-* 🎮 Interested in game development
-* 🌐 Full-stack development enthusiast
-* 📚 Always learning something new
-* 🚀 I enjoy turning ideas into actual projects
+</div>
 
 ---
 
-### `while(alive) { build(); learn(); repeat(); }`
+<div align="center">
+
+```js
+while (alive) { build(); learn(); repeat(); }
+```
 
 **— Mohammad Arsh**
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" alt="Footer" />
 
+</div>
