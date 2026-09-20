@@ -115,12 +115,11 @@ Documenting projects, experiments, and workflows on YouTube.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=HybridzDynamics&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HybridzDynamics&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa" alt="Top Languages" />
-
 <img src="https://streak-stats.demolab.com?user=HybridzDynamics&theme=tokyonight&hide_border=true&background=0f0c29&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HybridzDynamics&theme=tokyo-night&hide_border=true&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=7c3aed" alt="Contribution Graph" />
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/7c3aed/HybridzDynamics" alt="Contribution chart" width="90%" />
 
 </div>
 
