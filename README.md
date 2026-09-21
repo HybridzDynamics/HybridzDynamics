@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Mohammad%20Arsh&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20AI%20Enthusiast%20%E2%80%A2%20Tech%20Creator&descSize=18&descAlignY=60&descColor=c9c9ff" alt="Mohammad Arsh header" />
 
 <a href="https://github.com/HybridzDynamics">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=700&height=45&lines=Full-Stack+Developer+%F0%9F%9A%80;BCA+Student+%40+JIIT+%F0%9F%8E%93;Founder+%40+Hybridz+Dynamics;Co-Founder+%40+Asero+Studio;Building+with+Python%2C+Node.js+%26+Flutter;Exploring+RAG%2C+OCR+%26+Multilingual+AI;Aspiring+Cybersecurity+Threat+Analyst+%F0%9F%9B%A1%EF%B8%8F" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=700&height=45&lines=Full-Stack+Developer;BCA+Student+%40+JIIT;Founder+%40+Hybridz+Dynamics;Co-Founder+%40+Asero+Studio;Building+with+Python%2C+Node.js+%26+Flutter;Exploring+RAG%2C+OCR+%26+Multilingual+AI;Aspiring+Cybersecurity+Threat+Analyst" alt="Typing animation" />
 </a>
 
 <br/>
@@ -18,51 +18,51 @@
 <br/>
 
 <!-- ═══════════════ ABOUT ═══════════════ -->
-## 👋 About Me
+## <img src="https://api.iconify.design/lucide/hand.svg?color=%23a78bfa" width="26" height="26" align="center" alt="" /> About Me
 
 I'm **Mohammad Arsh**, a developer and BCA student at **Jaypee Institute of Information Technology (JIIT)**. I build software, experiment with AI, and turn ideas into working products.
 
 I like working across the whole stack: interfaces and APIs, databases, AI systems, automation, and deployment. I'm also the **Founder of Hybridz Dynamics** and **Co-Founder of Asero Studio**.
 
-> 💬 *Build things. Break things. Learn. Build better.*
+> <img src="https://api.iconify.design/lucide/message-circle.svg?color=%23a78bfa" width="18" height="18" align="center" alt="" /> *Build things. Break things. Learn. Build better.*
 
 ```text
-🧑‍💻 Name        →  Mohammad Arsh
-🎓 Studying     →  BCA @ JIIT (2026 – 2029)
-🏢 Founder      →  Hybridz Dynamics (since 2022)
-🤝 Co-Founder   →  Asero Studio
-📍 Based in     →  Delhi, India
-🎯 Aiming for   →  Software / Backend Engineering & Cybersecurity
+Name        →  Mohammad Arsh
+Studying    →  BCA @ JIIT (2026 – 2029)
+Founder     →  Hybridz Dynamics (since 2022)
+Co-Founder  →  Asero Studio
+Based in    →  Delhi, India
+Aiming for  →  Software / Backend Engineering & Cybersecurity
 ```
 
 ---
 
 <!-- ═══════════════ WORKING ON ═══════════════ -->
-## 🚀 What I'm Working On
+## <img src="https://api.iconify.design/lucide/rocket.svg?color=%23a78bfa" width="26" height="26" align="center" alt="" /> What I'm Working On
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
-### 🧠 AI & Machine Learning
+### <img src="https://api.iconify.design/lucide/brain.svg?color=%23a78bfa" width="22" height="22" align="center" alt="" /> AI & Machine Learning
 Exploring RAG, document intelligence, multilingual AI, OCR, and open-source models.
 
-### ⚙️ Full-Stack Development
+### <img src="https://api.iconify.design/lucide/layers.svg?color=%23a78bfa" width="22" height="22" align="center" alt="" /> Full-Stack Development
 Modern web apps, dashboards, REST APIs, and backend systems.
 
-### 🛠️ Developer Infrastructure
+### <img src="https://api.iconify.design/lucide/wrench.svg?color=%23a78bfa" width="22" height="22" align="center" alt="" /> Developer Infrastructure
 Databases, Linux, Docker, cloud deployment, CI/CD, and system architecture.
 
   </td>
     <td width="50%" valign="top">
 
-### 📱 Cross-Platform Apps
+### <img src="https://api.iconify.design/lucide/smartphone.svg?color=%23a78bfa" width="22" height="22" align="center" alt="" /> Cross-Platform Apps
 Flutter apps with authentication, offline support, and clean architecture.
 
-### 🎮 Game & Interactive Dev
+### <img src="https://api.iconify.design/lucide/gamepad-2.svg?color=%23a78bfa" width="22" height="22" align="center" alt="" /> Game & Interactive Dev
 Game systems, digital assets, and interactive experiences.
 
-### 🎥 Tech Content
+### <img src="https://api.iconify.design/lucide/video.svg?color=%23a78bfa" width="22" height="22" align="center" alt="" /> Tech Content
 Documenting projects, experiments, and workflows on YouTube.
 
   </td>
@@ -72,7 +72,7 @@ Documenting projects, experiments, and workflows on YouTube.
 ---
 
 <!-- ═══════════════ TECH STACK ═══════════════ -->
-## 🧠 Tech Stack
+## <img src="https://api.iconify.design/lucide/cpu.svg?color=%23a78bfa" width="26" height="26" align="center" alt="" /> Tech Stack
 
 <div align="center">
 
@@ -96,22 +96,22 @@ Documenting projects, experiments, and workflows on YouTube.
 ---
 
 <!-- ═══════════════ PROJECTS ═══════════════ -->
-## 🛠️ Things I've Built
+## <img src="https://api.iconify.design/lucide/hammer.svg?color=%23a78bfa" width="26" height="26" align="center" alt="" /> Things I've Built
 
 | Project | What it is | Focus |
 |---|---|---|
-| 🧠 **Sathix** | AI-powered platform for multilingual access to information, intelligent retrieval, document intelligence, OCR, and eligibility analysis | `AI` `RAG` `OCR` `Multilingual` `Web Scraping` |
-| 🏦 **FinanceForge** | Financial statement generation platform for financial data processing, analysis, and reporting | `Python` `MySQL` `Financial Systems` |
-| 🔐 **Hybridz Licensing** | Licensing and API ecosystem for managing digital assets and software licenses | `APIs` `Authentication` `PostgreSQL` `Backend` |
-| 🎮 **FH Development** | Development ecosystem for digital assets and experiences on gaming platforms | `Game Dev` `Web` `Digital Assets` |
-| 🤖 **Yahmi Security Rover** | AI surveillance rover with live camera, human and animal detection, a real-time dashboard, and a Flutter app | `ESP32` `Raspberry Pi` `Computer Vision` `WebSocket` `Flutter` |
-| 📱 **LuminSalat** | Flutter app with authentication, calculators, Islamic utilities, and offline support | `Flutter` `Dart` `Offline-First` |
-| 💬 **Discord Bots** | Bots with dashboards, automation workflows, moderation systems, and custom integrations | `Node.js` `Discord.js` `Automation` |
+| <img src="https://api.iconify.design/lucide/brain.svg?color=%23a78bfa" width="18" height="18" align="center" alt="" /> **Sathix** | AI-powered platform for multilingual access to information, intelligent retrieval, document intelligence, OCR, and eligibility analysis | `AI` `RAG` `OCR` `Multilingual` `Web Scraping` |
+| <img src="https://api.iconify.design/lucide/landmark.svg?color=%23a78bfa" width="18" height="18" align="center" alt="" /> **FinanceForge** | Financial statement generation platform for financial data processing, analysis, and reporting | `Python` `MySQL` `Financial Systems` |
+| <img src="https://api.iconify.design/lucide/key-round.svg?color=%23a78bfa" width="18" height="18" align="center" alt="" /> **Hybridz Licensing** | Licensing and API ecosystem for managing digital assets and software licenses | `APIs` `Authentication` `PostgreSQL` `Backend` |
+| <img src="https://api.iconify.design/lucide/gamepad-2.svg?color=%23a78bfa" width="18" height="18" align="center" alt="" /> **FH Development** | Development ecosystem for digital assets and experiences on gaming platforms | `Game Dev` `Web` `Digital Assets` |
+| <img src="https://api.iconify.design/lucide/bot.svg?color=%23a78bfa" width="18" height="18" align="center" alt="" /> **Yahmi Security Rover** | AI surveillance rover with live camera, human and animal detection, a real-time dashboard, and a Flutter app | `ESP32` `Raspberry Pi` `Computer Vision` `WebSocket` `Flutter` |
+| <img src="https://api.iconify.design/lucide/smartphone.svg?color=%23a78bfa" width="18" height="18" align="center" alt="" /> **LuminSalat** | Flutter app with authentication, calculators, Islamic utilities, and offline support | `Flutter` `Dart` `Offline-First` |
+| <img src="https://api.iconify.design/lucide/message-square.svg?color=%23a78bfa" width="18" height="18" align="center" alt="" /> **Discord Bots** | Bots with dashboards, automation workflows, moderation systems, and custom integrations | `Node.js` `Discord.js` `Automation` |
 
 ---
 
 <!-- ═══════════════ STATS ═══════════════ -->
-## 📈 GitHub Activity
+## <img src="https://api.iconify.design/lucide/trending-up.svg?color=%23a78bfa" width="26" height="26" align="center" alt="" /> GitHub Activity
 
 <div align="center">
 
@@ -126,7 +126,7 @@ Documenting projects, experiments, and workflows on YouTube.
 ---
 
 <!-- ═══════════════ SNAKE ═══════════════ -->
-## 🐍 Contribution Snake
+## <img src="https://api.iconify.design/lucide/worm.svg?color=%23a78bfa" width="26" height="26" align="center" alt="" /> Contribution Snake
 
 <div align="center">
   <picture>
@@ -139,19 +139,19 @@ Documenting projects, experiments, and workflows on YouTube.
 ---
 
 <!-- ═══════════════ LEARNING ═══════════════ -->
-## 🌱 Currently Learning
+## <img src="https://api.iconify.design/lucide/sprout.svg?color=%23a78bfa" width="26" height="26" align="center" alt="" /> Currently Learning
 
-- 🤖 Advanced AI/ML systems and Retrieval-Augmented Generation
-- 🌍 Multilingual NLP
-- 🏗️ Backend architecture and system design
-- ☁️ Cloud infrastructure and distributed systems
-- 🛡️ Cybersecurity fundamentals
-- 🎮 Game development
+- <img src="https://api.iconify.design/lucide/bot.svg?color=%23a78bfa" width="18" height="18" align="center" alt="" /> Advanced AI/ML systems and Retrieval-Augmented Generation
+- <img src="https://api.iconify.design/lucide/languages.svg?color=%23a78bfa" width="18" height="18" align="center" alt="" /> Multilingual NLP
+- <img src="https://api.iconify.design/lucide/blocks.svg?color=%23a78bfa" width="18" height="18" align="center" alt="" /> Backend architecture and system design
+- <img src="https://api.iconify.design/lucide/cloud.svg?color=%23a78bfa" width="18" height="18" align="center" alt="" /> Cloud infrastructure and distributed systems
+- <img src="https://api.iconify.design/lucide/shield-check.svg?color=%23a78bfa" width="18" height="18" align="center" alt="" /> Cybersecurity fundamentals
+- <img src="https://api.iconify.design/lucide/gamepad-2.svg?color=%23a78bfa" width="18" height="18" align="center" alt="" /> Game development
 
 ---
 
 <!-- ═══════════════ APPROACH ═══════════════ -->
-## 🎯 My Approach
+## <img src="https://api.iconify.design/lucide/target.svg?color=%23a78bfa" width="26" height="26" align="center" alt="" /> My Approach
 
 I don't like stopping at tutorials. Every project is a chance to learn something new.
 
@@ -161,8 +161,21 @@ Idea → Research → Prototype → Build → Break → Debug → Improve → De
 
 ---
 
+<!-- ═══════════════ CONTACT ═══════════════ -->
+## <img src="https://api.iconify.design/lucide/mail.svg?color=%23a78bfa" width="26" height="26" align="center" alt="" /> Contact Me
+
+Got a project idea, an internship opportunity, or want to collaborate? Send me a message.
+
+<div align="center">
+
+<a href="https://formspree.io/f/mdekkvjy"><img src="https://img.shields.io/badge/Send%20a%20Message-Contact%20Form-7c3aed?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=0f0c29" alt="Contact form" /></a>
+
+</div>
+
+---
+
 <!-- ═══════════════ CONNECT ═══════════════ -->
-## 🌐 Find Me
+## <img src="https://api.iconify.design/lucide/globe.svg?color=%23a78bfa" width="26" height="26" align="center" alt="" /> Find Me
 
 <div align="center">
 
