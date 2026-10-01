@@ -124,18 +124,6 @@ Documenting projects, experiments, and workflows on YouTube.
 </div>
 
 ---
-
-<!-- ═══════════════ SNAKE ═══════════════ -->
-## <img src="https://api.iconify.design/lucide/worm.svg?color=%23a78bfa" width="26" height="26" align="center" alt="" /> Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HybridzDynamics/HybridzDynamics/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HybridzDynamics/HybridzDynamics/output/github-snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/HybridzDynamics/HybridzDynamics/output/github-snake.svg" />
-  </picture>
-</div>
-
 ---
 
 <!-- ═══════════════ LEARNING ═══════════════ -->
@@ -162,16 +150,6 @@ Idea → Research → Prototype → Build → Break → Debug → Improve → De
 ---
 
 <!-- ═══════════════ CONTACT ═══════════════ -->
-## <img src="https://api.iconify.design/lucide/mail.svg?color=%23a78bfa" width="26" height="26" align="center" alt="" /> Contact Me
-
-Got a project idea, an internship opportunity, or want to collaborate? Send me a message.
-
-<div align="center">
-
-<a href="https://formspree.io/f/mdekkvjy"><img src="https://img.shields.io/badge/Send%20a%20Message-Contact%20Form-7c3aed?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=0f0c29" alt="Contact form" /></a>
-
-</div>
-
 ---
 
 <!-- ═══════════════ CONNECT ═══════════════ -->
