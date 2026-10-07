@@ -4,15 +4,19 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:22d3ee,50:8b5cf6,100:f472b6&height=240&section=header&text=Mohammad%20Arsh&fontSize=60&fontColor=ffffff&fontAlignY=42&animation=twinkling&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Founder%20%E2%80%A2%20Aspiring%20Threat%20Analyst&descSize=18&descAlignY=64&descColor=ffffff" alt="Mohammad Arsh header" />
 
 <a href="https://mohammadarsh-portfolio.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=720&height=45&lines=%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%8E%93+BCA+Student+%40+JIIT;%F0%9F%9A%80+Founder+%40+Hybridz+Dynamics;%F0%9F%8E%A8+CTO+%26+Co-Founder+%40+Asero+Studio;%F0%9F%A7%A0+Exploring+RAG%2C+Vector+Search+%26+Multimodal+AI;%F0%9F%9B%A1%EF%B8%8F+Aspiring+Cybersecurity+Threat+Analyst" alt="Typing animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=720&height=45&lines=%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%8E%93+BCA+Student+%40+JIIT;%F0%9F%9A%80+Founder+%40+Hybridz+Dynamics;%F0%9F%8E%A8+CTO+%26+Co-Founder+%40+Asero+Studio;%F0%9F%A7%A0+Exploring+RAG%2C+Vector+Search+%26+Multimodal+AI;%F0%9F%9B%A1%EF%B8%8F+Aspiring+Cybersecurity+Threat+Analyst">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=720&height=45&lines=%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%8E%93+BCA+Student+%40+JIIT;%F0%9F%9A%80+Founder+%40+Hybridz+Dynamics;%F0%9F%8E%A8+CTO+%26+Co-Founder+%40+Asero+Studio;%F0%9F%A7%A0+Exploring+RAG%2C+Vector+Search+%26+Multimodal+AI;%F0%9F%9B%A1%EF%B8%8F+Aspiring+Cybersecurity+Threat+Analyst">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=720&height=45&lines=%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%8E%93+BCA+Student+%40+JIIT;%F0%9F%9A%80+Founder+%40+Hybridz+Dynamics;%F0%9F%8E%A8+CTO+%26+Co-Founder+%40+Asero+Studio;%F0%9F%A7%A0+Exploring+RAG%2C+Vector+Search+%26+Multimodal+AI;%F0%9F%9B%A1%EF%B8%8F+Aspiring+Cybersecurity+Threat+Analyst" alt="Typing animation" />
+  </picture>
 </a>
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=HybridzDynamics&label=Profile%20Views&color=8b5cf6&style=for-the-badge" alt="Profile views" />
-<a href="https://github.com/HybridzDynamics?tab=followers"><img src="https://img.shields.io/github/followers/HybridzDynamics?style=for-the-badge&logo=github&color=22d3ee&labelColor=0d1117" alt="Followers" /></a>
-<a href="https://mohammadarsh-portfolio.vercel.app/"><img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Site-f472b6?style=for-the-badge&labelColor=0d1117" alt="Portfolio" /></a>
-<img src="https://img.shields.io/badge/💼%20Open%20to-Internships%20%26%20Collabs-22d3ee?style=for-the-badge&labelColor=0d1117" alt="Open to work" />
+<a href="https://github.com/HybridzDynamics?tab=followers"><img src="https://img.shields.io/github/followers/HybridzDynamics?style=for-the-badge&logo=github&color=0891b2&labelColor=0d1117" alt="Followers" /></a>
+<a href="https://mohammadarsh-portfolio.vercel.app/"><img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Site-db2777?style=for-the-badge&labelColor=0d1117" alt="Portfolio" /></a>
+<img src="https://img.shields.io/badge/💼%20Open%20to-Internships%20%26%20Collabs-0891b2?style=for-the-badge&labelColor=0d1117" alt="Open to work" />
 
 </div>
 
@@ -92,22 +96,46 @@ Linux, Docker, databases, automation, and system architecture.
 <div align="center">
 
 **💬 Languages**<br/>
-<img src="https://skillicons.dev/icons?i=js,ts,py,c,php,dart&theme=dark" alt="Languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,py,c,php,dart&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,ts,py,c,php,dart&theme=light">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,c,php,dart&theme=light" alt="Languages" />
+</picture>
 
 **🎨 Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css,flutter&theme=dark" alt="Frontend" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css,flutter&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css,flutter&theme=light">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css,flutter&theme=light" alt="Frontend" />
+</picture>
 
 **⚙️ Backend**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,discordjs&theme=dark" alt="Backend" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,prisma,discordjs&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,express,prisma,discordjs&theme=light">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,discordjs&theme=light" alt="Backend" />
+</picture>
 
 **🗄️ Databases**<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,firebase&theme=dark" alt="Databases" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,firebase&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,firebase&theme=light">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,firebase&theme=light" alt="Databases" />
+</picture>
 
 **🎮 Game Dev**<br/>
-<img src="https://skillicons.dev/icons?i=godot&theme=dark" alt="Game Dev" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=godot&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=godot&theme=light">
+  <img src="https://skillicons.dev/icons?i=godot&theme=light" alt="Game Dev" />
+</picture>
 
 **🧰 Tools & Infrastructure**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,debian,vscode,raspberrypi&theme=dark" alt="Tools" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,docker,linux,debian,vscode,raspberrypi&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,docker,linux,debian,vscode,raspberrypi&theme=light">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,debian,vscode,raspberrypi&theme=light" alt="Tools" />
+</picture>
 
 </div>
 
@@ -138,11 +166,19 @@ Linux, Docker, databases, automation, and system architecture.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=HybridzDynamics&theme=dark&hide_border=true&background=0d1117&ring=22d3ee&fire=f472b6&currStreakLabel=22d3ee&currStreakNum=ffffff&sideNums=ffffff&sideLabels=8b5cf6&dates=9ca3af" alt="GitHub Streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=HybridzDynamics&theme=dark&hide_border=true&background=0d1117&ring=22d3ee&fire=f472b6&currStreakLabel=22d3ee&currStreakNum=ffffff&sideNums=ffffff&sideLabels=8b5cf6&dates=9ca3af">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=HybridzDynamics&theme=default&hide_border=true&background=ffffff&ring=0891b2&fire=db2777&currStreakLabel=0891b2&currStreakNum=111827&sideNums=111827&sideLabels=7c3aed&dates=6b7280">
+  <img src="https://streak-stats.demolab.com?user=HybridzDynamics&theme=default&hide_border=true&background=ffffff&ring=0891b2&fire=db2777&currStreakLabel=0891b2&currStreakNum=111827&sideNums=111827&sideLabels=7c3aed&dates=6b7280" alt="GitHub Streak" />
+</picture>
 
 <br/><br/>
 
-<img src="https://ghchart.rshah.org/22d3ee/HybridzDynamics" alt="Contribution chart" width="90%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/22d3ee/HybridzDynamics">
+  <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/7c3aed/HybridzDynamics">
+  <img src="https://ghchart.rshah.org/7c3aed/HybridzDynamics" alt="Contribution chart" width="90%" />
+</picture>
 
 </div>
 
