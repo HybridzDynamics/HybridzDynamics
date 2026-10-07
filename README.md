@@ -1,7 +1,7 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:22d3ee,50:8b5cf6,100:f472b6&height=240&section=header&text=Mohammad%20Arsh&fontSize=60&fontColor=ffffff&fontAlignY=42&animation=twinkling&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Founder%20%E2%80%A2%20Aspiring%20Threat%20Analyst&descSize=18&descAlignY=64&descColor=ffffff" alt="Mohammad Arsh header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:8b5cf6,100:f472b6&height=240&section=header&text=Mohammad%20Arsh&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Founder%20%E2%80%A2%20Aspiring%20Threat%20Analyst&descSize=18&descAlignY=58&descColor=ffffff" alt="Mohammad Arsh header" />
 
 <a href="https://mohammadarsh-portfolio.vercel.app/">
   <picture>
